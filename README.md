@@ -1,7 +1,7 @@
 # material design Steppers 
-#### Google Material Design Steppers Component  - Android Java - <a href="https://www.google.co.in/design/spec/components/steppers.html">Official Link</a> [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion)
-Steps to Add To your Project :
-<hr />
+#### Google Material Design Steppers Component  - Android Java - <a href="https://www.google.co.in/design/spec/components/steppers.html">Official Link</a>
+#####Steps to Add To your Project :  [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion)
+<br>
 1) Download the library (i have added to jcenter and waiting for approval) or add in your libs folder <br>
 2) Extend your Activity -> from <b>mobileStepperSimple</b> Class <br>
 3) Implement the Methods <b>initApp</b> and <b>onStepperCompleted</b><br>
@@ -16,7 +16,11 @@ Steps to Add To your Project :
 <hr>
 <b>Note : with the given List size : step count will be Computed and Updated,Increasing and dynamic fragment feature will be added in future Commits,<br>
 Scrollview have been adopted for fragment inbuilt to scroll,So no worries for small screens and large layout.</b>
-
+##DEMO : 
+Included the Example Demo app in <a href="https://github.com/shivasurya/materialsteppers/tree/master/example">example project</a>,Download and Sync with gradle.build <br>
+<b>Screenshot : </b>
+<hr>
+<img src="https://raw.githubusercontent.com/shivasurya/materialsteppers/master/screenshot/sample.gif" alt="demo screenshot">
 ## Use of this Library :
 <hr>
 1) Payment Processing Steps for Checkouts <br />
