@@ -1,5 +1,5 @@
-# material design Steppers
-#### Google Material Design Steppers Component  - Android Java - <a href=-"https://www.google.co.in/design/spec/components/steppers.html">Official Link</a>
+# material design Steppers 
+#### Google Material Design Steppers Component  - Android Java - <a href="https://www.google.co.in/design/spec/components/steppers.html">Official Link</a> [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion)
 Steps to Add To your Project :
 <hr />
 1) Download the library (i have added to jcenter and waiting for approval) or add in your libs folder <br>
