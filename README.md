@@ -1,7 +1,9 @@
 # material design Steppers 
 #### Google Material Design Steppers Component  - Android Java - <a href="https://www.google.co.in/design/spec/components/steppers.html">Official Link</a>
-#####Steps to Add To your Project :  [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion)
+#####Steps to Add To your Project :  [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion) Download from jcenter
 <br>
+`compile 'ivb.com.materialstepper:material-stepper:0.0.1'`
+
 1) Download the library (i have added to jcenter and waiting for approval) or add in your libs folder <br>
 2) Extend your Activity -> from <b>mobileStepperSimple</b> Class <br>
 3) Implement the Methods <b>initApp</b> and <b>onStepperCompleted</b><br>
