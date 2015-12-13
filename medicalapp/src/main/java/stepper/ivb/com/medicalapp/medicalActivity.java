@@ -19,6 +19,7 @@ import stepper.ivb.com.medicalapp.fragments.page_two_b;
  */
 public class medicalActivity extends mobileStepperSimple {
 
+
     List<stepperFragment> stepperFragmentList = new ArrayList<>();
     stepperFragment obj = new page_one();
     stepperFragment obj1 = new page_two();
