@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/stepper"
-    tools:context=".MainActivity">
+    tools:context=".mobileStepperSimple">
 
     <LinearLayout
         android:id="@+id/stepperlayout"
@@ -25,6 +25,7 @@
     </LinearLayout>
 
     <ScrollView
+        android:id="@+id/mobilescroll"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/stepperlayout">
