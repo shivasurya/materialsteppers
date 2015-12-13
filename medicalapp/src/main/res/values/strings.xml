@@ -28,6 +28,12 @@
         <item>LEVEL 2 - BORDERLINE HIGH (200 - 239)</item>
         <item>LEVEL 3 - HIGH ( > 240)</item>
     </string-array>
+    <string-array name="restecg_array">
+        <item>Choose Level</item>
+        <item>LEVEL - 1 ST(high) T(high)</item>
+        <item>LEVEL - 2 ST(high) T(low) / ST(low) T(high)</item>
+        <item>LEVEL - 3 ST(low) T(low)</item>
+    </string-array>
     <string-array name="chestpain_arrays">
         <item>Choose Chest Pain Type here</item>
         <item>Comprehensive Type Radiated to ARM</item>
@@ -42,4 +48,11 @@
         <item>No Chest Pain</item>
         <item>Constrecting pain C</item>
     </string-array>
+    <string-array name="fastingblood_array">
+        <item>Choose LEVEL below</item>
+        <item>LEVEL 1 - DESIRABLE ( &lt; 100)</item>
+        <item>LEVEL 2 - IMPARIED GULCOSE(100-125)</item>
+        <item>LEVEL 3 - DIAGNOSIS OF DIABETES( &gt;= 126)</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
 </resources>
