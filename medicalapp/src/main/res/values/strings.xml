@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Medical App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="age_prompt">Choose Age</string>
+
+    <string-array name="age_arrays">
+        <item>Choose Age here</item>
+        <item>Age &lt; 34</item>
+        <item>34 - 50 age</item>
+        <item>51 - 60 age</item>
+        <item>61 - 70 age</item>
+        <item>71 - 85 age</item>
+        <item>86 and Above age</item>
+
+    </string-array>
+    <string-array name="label_array">
+        <item>Choose A CLASS</item>
+        <item>Class ZERO - ANGINA</item>
+        <item>Class ONE - MYOCARDIAL INFARCTION</item>
+        <item>Class TWO - Percutaneous Coronary Intervention</item>
+        <item>CLASS THREE - Coronary artery bypass graft Surgery</item>
+    </string-array>
+    <string-array name="serumcholesteral_array">
+        <item>Choose A LEVEL</item>
+        <item>LEVEL 1 - DESIRABLE ( &lt; 200)</item>
+        <item>LEVEL 2 - BORDERLINE HIGH (200 - 239)</item>
+        <item>LEVEL 3 - HIGH ( > 240)</item>
+    </string-array>
+    <string-array name="chestpain_arrays">
+        <item>Choose Chest Pain Type here</item>
+        <item>Comprehensive Type Radiated to ARM</item>
+        <item>Restresternal area Pain</item>
+        <item>Pricking Type</item>
+        <item>Prepitation C Chest pain</item>
+        <item>OmStricting Chest Pain</item>
+        <item>Chest Pain Antnnus</item>
+        <item>Chest pain with Jaw and Neck pain</item>
+        <item>Pain at Exestion/Sweating</item>
+        <item>Pain at Rest</item>
+        <item>No Chest Pain</item>
+        <item>Constrecting pain C</item>
+    </string-array>
+</resources>

@@ -1,1 +1,1 @@
-include ':app', ':materialsteppers', ':example'
+include ':materialsteppers', ':example', ':medicalapp'
