@@ -12,4 +12,12 @@
     tools:context="stepper.ivb.com.medicalapp.activity.Home"
     tools:showIn="@layout/activity_home">
 
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:choiceMode="singleChoice" />
 </RelativeLayout>

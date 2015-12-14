@@ -89,7 +89,7 @@
                     android:background="#c0c0c0" />
 
                 <RadioGroup
-                    android:id="@+id/anterolateral"
+                    android:id="@+id/anterolateralradio"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
@@ -289,7 +289,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="5dp"
-                    android:text="INFERO LATERAL :"
+                    android:text="SEPTO ANTERIO :"
                     android:textSize="18dp"
                     android:textStyle="bold" />
 

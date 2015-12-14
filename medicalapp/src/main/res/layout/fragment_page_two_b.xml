@@ -39,7 +39,7 @@
                     android:background="#c0c0c0" />
 
                 <android.support.v7.widget.AppCompatSpinner
-                    android:id="@+id/labelspinner"
+                    android:id="@+id/restecgspinner"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_margin="10dp"
@@ -114,21 +114,21 @@
                     android:background="#c0c0c0" />
 
                 <RadioGroup
-                    android:id="@+id/pericardial"
+                    android:id="@+id/waist"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:orientation="vertical">
 
                     <RadioButton
-                        android:id="@+id/pericardial_no"
+                        android:id="@+id/waist_no"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="WOMEN ( &gt; 35 inches)"
                         android:textSize="15dp" />
 
                     <RadioButton
-                        android:id="@+id/pericardial_yes"
+                        android:id="@+id/waist_yes"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="MEN ( &gt; 40 inches)"
