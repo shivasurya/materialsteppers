@@ -1,11 +1,13 @@
 package stepper.ivb.com.medicalapp;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -85,26 +87,73 @@ public class medicalActivity extends mobileStepperSimple {
             data.label = sharedpreferences.getString(constant.LABEL, null);
 
             Dbhandler db = new Dbhandler(this);
+
             if (db.register(data)) {
                 Log.d("success", "success go ahead to db");
-                Snackbar.make(getCurrentFocus(), "Success! Stored Data in Database", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+                alertDialogBuilder.setMessage("Success in Database! Saving");
+
+                alertDialogBuilder.setPositiveButton("Go HOME", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface arg0, int arg1) {
+                        Intent intent = new Intent(medicalActivity.this, stepper.ivb.com.medicalapp.activity.Home.class);
+                        startActivity(intent);
+
+                    }
+                });
+
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
+
 
             } else {
                 Log.d("error", "DB");
+
+                AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+                alertDialogBuilder.setMessage("Error in Database! Saving");
+
+                alertDialogBuilder.setPositiveButton("OKAY", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface arg0, int arg1) {
+                        Toast.makeText(medicalActivity.this, "RESTART APP! DB ERROR", Toast.LENGTH_LONG).show();
+                    }
+                });
+
+
+                AlertDialog alertDialog = alertDialogBuilder.create();
+                alertDialog.show();
             }
         } catch (Exception e) {
             Log.e("SHARED PREFERENCE", e.toString());
+            e.printStackTrace();
+
+            AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+            alertDialogBuilder.setMessage("Error in Database! Saving");
+
+            alertDialogBuilder.setPositiveButton("OKAY", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface arg0, int arg1) {
+                    Toast.makeText(medicalActivity.this, "RESTART APP! DB ERROR", Toast.LENGTH_LONG).show();
+                }
+            });
+
+
+            AlertDialog alertDialog = alertDialogBuilder.create();
+            alertDialog.show();
         } finally {
             SharedPreferences.Editor editor = sharedpreferences.edit();
             editor.clear();
             editor.commit();
+            obj5 = null;
+            obj = null;
+            obj2 = null;
+            obj1 = null;
+            obj3 = null;
+            obj4 = null;
+            stepperFragmentList = null;
         }
-        try {
-            Intent intent = new Intent(medicalActivity.this, stepper.ivb.com.medicalapp.activity.Home.class);
-            startActivity(intent);
-        } catch (Exception e) {
 
-        }
     }
 }

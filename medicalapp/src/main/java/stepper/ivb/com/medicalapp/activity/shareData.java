@@ -59,10 +59,10 @@ public class shareData extends AppCompatActivity {
     protected boolean sendEmail(String email) {
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
         Calendar cal = Calendar.getInstance();
-        String message = dateFormat.format(cal.getTime()) + "Database DUMP from " + getDeviceName();
+        String message = dateFormat.format(cal.getTime()) + " Database DUMP from " + getDeviceName();
         Intent intent = new Intent(Intent.ACTION_SEND);
         intent.putExtra(Intent.EXTRA_SUBJECT, "TCE MEDICAL APP - DATABASE DUMP");
-        intent.putExtra(Intent.EXTRA_EMAIL, new String[]{email, "aa.sheikabdullah@gmail.com"});
+        intent.putExtra(Intent.EXTRA_EMAIL, new String[]{email});
         intent.putExtra(Intent.EXTRA_TEXT, message);
         intent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new File("/mnt/sdcard/db_dump.db")));
         intent.setType("text/plain");
