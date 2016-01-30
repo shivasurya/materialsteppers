@@ -19,10 +19,8 @@ Scrollview have been adopted for ViewPager(fragment) inbuilt to scroll,So no wor
 ##DEMO : 
 Included the Example Demo app in <a href="https://github.com/shivasurya/materialsteppers/tree/master/example">example project</a>,Download and Sync with gradle.build <br>
 <b>Screenshot : </b>
-<hr>
 <img src="https://lh3.googleusercontent.com/2ryony7pO7evMgwuxn7iZCk6uYHVt0oLiA4RR7GY4MeobNbA4WT07Cpwxds9sjMqCrkU7ZKoaEHmIjg9ONK_6qT5xi4UEkxr8VffNoR_7u31rtMXN2lB9TXtx0ADC2YyDIXj5sHlEU8GzwaOsO-dm7v-BREpkQMcLJWL_qMXOwPSsUplJ5nPNiO52qHp_Tq1fTSI0UvApMB5EGPYvoNx0mw8zJOkd47X2VtlO4bbXZouZ83jet5pgp-k50_tNFDAIfjtmJiWS-cruL9QN6kqjYLupsRPNfwBAVKRcIIhKpl_tzSjNurhxLHuiZaJx7ayd0469JaFREQH-gLU6B45Bne1KJ2Ke1lB-RaGtTOgW1z6ni8zNGgAXpwWB67fCjufBRK0R-Q8s_65FL0qFhy645d8tGcIhTudLbVPpSUtmLcdZmvnVY6aiwdIO4k09ykWOj_dkNe6jj0Fsw1t-_ZpktGZrRIRBAJwAxbCvnrAFqlZOhZPwc1JDz69Xt5a8nDRGwauMVpTzij9bZ5rz2KnMlNi5xRRY2-r-4hMWLpQLph7nVLovc3jGaR7uspneRO1zxCn=w264-h265-no" alt="demo screenshot">
 ## Use of this Library :
-<hr>
 1) Payment Processing Steps for Checkouts <br />
 2) Account verification and creation <br />
 3) Survey Apps and Form fillup driven apps (Highly Recommended) <br />
@@ -30,7 +28,6 @@ Included the Example Demo app in <a href="https://github.com/shivasurya/material
 <hr>
 
 ##Motive behind this Library:
-<hr >
 Hello,i'm shivasurya,Pre-Final year UG Student from INDIA<br />
 i have been developing apps for more than a year,Developed Android Material Design Component using Existing Support Library v4 ViewPager named as Material Steppers.Initially developed for part of College Project and open sourced for further development and enhancement of the library in Github.Constantly working on the library to improve features and fix memory Leaks based on issues opened.It has been published in Android-arsenal too.
 
@@ -39,7 +36,6 @@ Android Arsenal - https://android-arsenal.com/details/1/3049
 Please Do Contribute and Optimize the code as possible.
 
 ##License 
-<hr>
 The MIT License (MIT)
 
 Copyright (c) Shivasurya S
