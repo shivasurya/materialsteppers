@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".progressMobileStepper">
+
+    <ScrollView
+        android:id="@+id/mobilescroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E7E7E7"
+        android:layout_below="@+id/stepperlayout">
+
+        <ivb.com.materialstepper.components.stepperView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/viewpager"/>
+
+    </ScrollView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:layout_height="48sp">
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="0sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:layout_marginStart="16sp"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableLeft="@drawable/stepper_left"
+            android:drawableStart="@drawable/stepper_left"
+            android:paddingRight="10sp"
+            android:paddingEnd="10sp"
+            android:paddingLeft="0sp"
+            android:paddingStart="0sp"
+            android:text="Back"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp" />
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0sp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"
+            android:paddingLeft="20sp"
+            android:paddingRight="20sp"
+            android:id="@+id/stepperprogressbar"
+            android:max="100"
+            android:progress="100"
+            android:indeterminate="false"/>
+        <Button
+            android:id="@+id/next"
+            android:layout_width="0sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16sp"
+            android:layout_marginEnd="16sp"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableRight="@drawable/stepper_right"
+            android:drawableEnd="@drawable/stepper_right"
+            android:paddingLeft="5sp"
+            android:paddingStart="10sp"
+            android:paddingRight="0sp"
+            android:paddingEnd="0sp"
+            android:text="Next"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:13:9-40
+activity#stepper.ivb.com.medicalapp.medicalActivity
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:14:9-16:57
+	android:label
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:15:13-44
+activity#stepper.ivb.com.medicalapp.activity.Home
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:19:13-56
+	android:theme
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:24:27-74
+activity#stepper.ivb.com.medicalapp.activity.shareData
+ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml:28:19-53
+uses-sdk
+INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [MaterialStepper:materialsteppers:unspecified] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\MaterialStepper\materialsteppers\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S.Shivasurya\AndroidstudioProjects\MaterialStepper\medicalapp\src\main\AndroidManifest.xml

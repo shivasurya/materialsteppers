@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The boundaries of Asia are traditionally determined as that of Eurasia which is not Europe, as there is no clear geographical separation between them, and Asia is in itself originally a European definition. The most commonly accepted boundaries place Asia to the east of the Suez Canal, the Ural River, and the Ural Mountains, and south of the Caucasus Mountains and the Caspian and Black Seas.[4] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean.
+        The boundaries of Asia are traditionally determined as that of Eurasia which is not Europe, as there is no clear geographical separation between them, and Asia is in itself originally a European definition. The most commonly accepted boundaries place Asia to the east of the Suez Canal, the Ural River, and the Ural Mountains, and south of the Caucasus Mountains and the Caspian and Black Seas.[4] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean.
+        The boundaries of Asia are traditionally determined as that of Eurasia which is not Europe, as there is no clear geographical separation between them, and Asia is in itself originally a European definition. The most commonly accepted boundaries place Asia to the east of the Suez Canal, the Ural River, and the Ural Mountains, and south of the Caucasus Mountains and the Caspian and Black Seas.[4] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean.
+        The boundaries of Asia are traditionally determined as that of Eurasia which is not Europe, as there is no clear geographical separation between them, and Asia is in itself originally a European definition. The most commonly accepted boundaries place Asia to the east of the Suez Canal, the Ural River, and the Ural Mountains, and south of the Caucasus Mountains and the Caspian and Black Seas.[4] It is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean and on the north by the Arctic Ocean."
+        />
+</LinearLayout>

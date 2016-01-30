@@ -1,0 +1,332 @@
+[
+    {
+        "outputFile": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 69,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 69,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 73,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 75,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 58,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 70,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 69,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 69,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 70,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 71,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 71,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 57,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 57,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 57,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 57,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 105,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 105,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 52,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 52,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 54,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 62,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 62,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "C:\\Users\\S.Shivasurya\\AndroidstudioProjects\\MaterialStepper\\medicalapp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1452
+                    }
+                }
+            }
+        ]
+    }
+]
