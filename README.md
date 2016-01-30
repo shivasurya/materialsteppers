@@ -18,7 +18,7 @@
 Scrollview have been adopted for ViewPager(fragment) inbuilt to scroll,So no worries for small/Large Screens.Added support for both Landscape and Portait Mode by adopting SavedInstanceState.(However Your Data inside fragment is not gauranteed so,use SavedinstanceState)
 ##DEMO : 
 Included the Example Demo app in <a href="https://github.com/shivasurya/materialsteppers/tree/master/example">example project</a>,Download and Sync with gradle.build <br>
-<b>Screenshot : </b>
+###Screenshot :
 <img src="https://lh3.googleusercontent.com/2ryony7pO7evMgwuxn7iZCk6uYHVt0oLiA4RR7GY4MeobNbA4WT07Cpwxds9sjMqCrkU7ZKoaEHmIjg9ONK_6qT5xi4UEkxr8VffNoR_7u31rtMXN2lB9TXtx0ADC2YyDIXj5sHlEU8GzwaOsO-dm7v-BREpkQMcLJWL_qMXOwPSsUplJ5nPNiO52qHp_Tq1fTSI0UvApMB5EGPYvoNx0mw8zJOkd47X2VtlO4bbXZouZ83jet5pgp-k50_tNFDAIfjtmJiWS-cruL9QN6kqjYLupsRPNfwBAVKRcIIhKpl_tzSjNurhxLHuiZaJx7ayd0469JaFREQH-gLU6B45Bne1KJ2Ke1lB-RaGtTOgW1z6ni8zNGgAXpwWB67fCjufBRK0R-Q8s_65FL0qFhy645d8tGcIhTudLbVPpSUtmLcdZmvnVY6aiwdIO4k09ykWOj_dkNe6jj0Fsw1t-_ZpktGZrRIRBAJwAxbCvnrAFqlZOhZPwc1JDz69Xt5a8nDRGwauMVpTzij9bZ5rz2KnMlNi5xRRY2-r-4hMWLpQLph7nVLovc3jGaR7uspneRO1zxCn=w264-h265-no" alt="demo screenshot">
 ## Use of this Library :
 1) Payment Processing Steps for Checkouts <br />
