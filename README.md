@@ -2,7 +2,7 @@
 [ ![Download](https://api.bintray.com/packages/shivasurya/materialsteppers/materialstepper/images/download.svg) ](https://bintray.com/shivasurya/materialsteppers/materialstepper/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Design%20Steppers-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3049)
 #### Google Material Design Steppers Component  - Android Java - <a href="https://www.google.co.in/design/spec/components/steppers.html">Official Link</a>
 <br>
-`compile 'ivb.com.materialstepper:material-stepper:0.0.1'`
+`compile 'ivb.com.materialstepper:material-stepper:0.0.2'`
 <br />
 <br />
 1. Create Java Class and Extend **progressMobileStepper ** or **simpleMobileStepper** Activity.<br/>
