@@ -5,7 +5,7 @@
 `compile 'ivb.com.materialstepper:material-stepper:0.0.2'`
 <br />
 <br />
-1. Create Java Class and Extend **progressMobileStepper ** or **simpleMobileStepper** Activity.<br/>
+1. Create Java Class and Extend **progressMobileStepper** or **simpleMobileStepper** Activity.<br/>
 2. Implement Methods **List<Class> init()** method and **void onStepperCompleted()** .<br />
 3. Create Fragments by Extending **stepperFragment** and implement Method **boolean onNextButtonHandler()**.<br/>
 4. Use **onNextButtonHandler** method to handle UI validation inside Fragments,whenever the user presses the Next Button,return true/false inorder to determine to Stay or move to next Fragment.<br/>
@@ -19,7 +19,7 @@ Scrollview have been adopted for ViewPager(fragment) inbuilt to scroll,So no wor
 ##DEMO : 
 Included the Example Demo app in <a href="https://github.com/shivasurya/materialsteppers/tree/master/example">example project</a>,Download and Sync with gradle.build <br>
 ###Screenshot :
-<img src="https://lh3.googleusercontent.com/2ryony7pO7evMgwuxn7iZCk6uYHVt0oLiA4RR7GY4MeobNbA4WT07Cpwxds9sjMqCrkU7ZKoaEHmIjg9ONK_6qT5xi4UEkxr8VffNoR_7u31rtMXN2lB9TXtx0ADC2YyDIXj5sHlEU8GzwaOsO-dm7v-BREpkQMcLJWL_qMXOwPSsUplJ5nPNiO52qHp_Tq1fTSI0UvApMB5EGPYvoNx0mw8zJOkd47X2VtlO4bbXZouZ83jet5pgp-k50_tNFDAIfjtmJiWS-cruL9QN6kqjYLupsRPNfwBAVKRcIIhKpl_tzSjNurhxLHuiZaJx7ayd0469JaFREQH-gLU6B45Bne1KJ2Ke1lB-RaGtTOgW1z6ni8zNGgAXpwWB67fCjufBRK0R-Q8s_65FL0qFhy645d8tGcIhTudLbVPpSUtmLcdZmvnVY6aiwdIO4k09ykWOj_dkNe6jj0Fsw1t-_ZpktGZrRIRBAJwAxbCvnrAFqlZOhZPwc1JDz69Xt5a8nDRGwauMVpTzij9bZ5rz2KnMlNi5xRRY2-r-4hMWLpQLph7nVLovc3jGaR7uspneRO1zxCn=w264-h265-no" alt="demo screenshot">
+<a href = "https://goo.gl/photos/mXdHHMbS8tY9akQ6A" > Screenshot Link </a><br />
 ## Use of this Library :
 1) Payment Processing Steps for Checkouts <br />
 2) Account verification and creation <br />
