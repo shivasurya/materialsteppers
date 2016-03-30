@@ -1,9 +1,16 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ project files
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea/
+
+# Android Studio captures folder
+captures/
+
+# Misc
 .DS_Store
-/build
-/captures
-/app
