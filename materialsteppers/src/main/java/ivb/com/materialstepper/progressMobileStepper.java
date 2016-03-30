@@ -113,5 +113,3 @@ public abstract class progressMobileStepper extends AppCompatActivity implements
     public abstract List<Class> init();
 
 }
-
-
