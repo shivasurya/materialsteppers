@@ -41,7 +41,7 @@
             android:paddingEnd="10sp"
             android:paddingLeft="0sp"
             android:paddingStart="0sp"
-            android:text="Back"
+            android:text="قبلی"
             android:textColor="@android:color/darker_gray"
             android:textSize="15sp" />
         <ProgressBar
@@ -69,7 +69,7 @@
             android:paddingStart="10sp"
             android:paddingRight="0sp"
             android:paddingEnd="0sp"
-            android:text="Next"
+            android:text="بعدی"
             android:textColor="@android:color/darker_gray"
             android:textSize="15sp" />
 
